@@ -117,6 +117,7 @@ With the dashboard, users can:
 - Skewness and distribution tests highlight the non-normal nature of pricing and review metrics.
 
 Sample Dashboard Preview
+
 ![Test Image 1](images\screencapture-localhost-8501-2025-09-30-18_01_18.png)
 
 ## Conclusion
