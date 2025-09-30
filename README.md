@@ -67,7 +67,7 @@ This project analyzes Airbnb booking data to:
 - **`app.py`** → Streamlit-based **analytical dashboard** for interactive exploration of the dataset.
 - **`requirements.txt`** → Dependencies required to run the project.
 - **`images/`** → Dashboard preview screenshots and visual outputs.
-
+- **`dataset/`** -> Dataset used and created in this project.
 ---
 
 ## 📊 Analytical Dashboard (Add-On)
