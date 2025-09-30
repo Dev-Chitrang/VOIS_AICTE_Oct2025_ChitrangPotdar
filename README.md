@@ -118,7 +118,7 @@ With the dashboard, users can:
 
 Sample Dashboard Preview
 
-![Test Image 1](images\screencapture-localhost-8501-2025-09-30-18_01_18.png)
+![Test Image 1](images/screencapture-localhost-8501-2025-09-30-18_01_18.png)
 
 ## Conclusion
 
